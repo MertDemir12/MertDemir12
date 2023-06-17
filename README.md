@@ -1,7 +1,9 @@
 ### Hi! Welcome To My Github Page. 👋
 
 
+I'm Mert Demir.
 
+![Profile Views](https://komarev.com/ghpvc/?username=MertDemir12)
 
 ## I'm Currently Studying On 🏫
 
@@ -17,4 +19,4 @@ Software Engineer
 
 You Can Find And Get Touch With Me Via Twitter!
 
-[![Static Badge](https://img.shields.io/badge/MertDemir1205-follow%20on%20twitter-blue?link=https%3A%2F%2Ftwitter.com%2FMertDemir1205)](https://twitter.com/MertDemir1205)
+[![Twitter Badge](https://img.shields.io/badge/MertDemir1205-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MertDemir1205)
