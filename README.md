@@ -1,13 +1,13 @@
-### Hi! Welcome To My Github Page. 👋
+## Hi! Welcome To My Github Page. 👋
 
 
-I'm Mert Demir.
+I'm Mert Demir. I Want To Be A Engineer! 👨‍💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MertDemir12)
 
 ## I'm Currently Studying On 🏫
 
-Nihat Gürel Fen Lisesi / 
+Nihat Gürel Science High School Section of Numerical
 
 ## What Do I Want To Do In The Future 💼
 
