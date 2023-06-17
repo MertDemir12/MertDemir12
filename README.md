@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 📫 Reach me:
-[Yazı içi linkiyim](https://www.google.com)
+  [İn Gmail](Mertdmr1205@gmail.com)
 
 <!---
 MertDemir12/MertDemir12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
