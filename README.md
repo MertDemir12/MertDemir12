@@ -2,7 +2,6 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 📫 How to reach me;
-- in gmail
 
 <!---
 MertDemir12/MertDemir12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
