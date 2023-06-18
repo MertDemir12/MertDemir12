@@ -3,8 +3,6 @@
 
 I'm Mert Demir. I Want To Be A Engineer! 👨‍💻
 
-![Profile Views](https://komarev.com/ghpvc/?username=MertDemir12)
-
 ## I'm Currently Studying On 🏫
 
 Nihat Gürel Science High School Section of Numerical
