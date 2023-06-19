@@ -9,7 +9,7 @@ Nihat Gürel Science High School Section of Numerical
 
 ## What Do I Want To Do In The Future 💼
 
-Freelancer On [Upwork](https://www.upwork.com)
+Freelancer
 
 Software Engineer
 
