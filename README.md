@@ -9,8 +9,6 @@ Nihat Gürel Science High School Section of Numerical
 
 ## What Do I Want To Do In The Future 💼
 
-Freelancer
-
 Software Engineer
 
 ## Contact Me 📫
